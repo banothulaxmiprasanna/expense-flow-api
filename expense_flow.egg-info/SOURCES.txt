@@ -1,0 +1,6 @@
+pyproject.toml
+expense_flow.egg-info/PKG-INFO
+expense_flow.egg-info/SOURCES.txt
+expense_flow.egg-info/dependency_links.txt
+expense_flow.egg-info/requires.txt
+expense_flow.egg-info/top_level.txt
