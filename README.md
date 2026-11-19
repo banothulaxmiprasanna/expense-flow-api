@@ -1,5 +1,5 @@
 ﻿# Expense Flow API
-SANA
+
 Expense Flow API
 
 A FastAPI-based Expense Management System that provides APIs for managing expenses, categories, and users.
